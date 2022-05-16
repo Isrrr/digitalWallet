@@ -30,8 +30,3 @@ yarn run ios
 ```bash
 yarn run android
 ```
-
-### Построение сборки
-``` bash
--
-```
